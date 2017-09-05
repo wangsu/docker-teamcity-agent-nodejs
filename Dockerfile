@@ -6,3 +6,4 @@ RUN apt-get update -y
 RUN apt-get install -y sudo
 RUN curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 RUN apt-get install -y nodejs
+RUN npm install -g gulp npm-cache

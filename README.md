@@ -1,4 +1,5 @@
 # docker-teamcity-agent-nodejs
 
-Based on https://github.com/JetBrains/teamcity-docker-minimal-agent
-Includes node v8
+Based on https://github.com/JetBrains/teamcity-docker-minimal-agent.
+
+Includes node v8 + gulp + npm-cache
