@@ -1,4 +1,4 @@
-FROM jetbrains/teamcity-minimal-agent
+FROM jetbrains/teamcity-agent
 
 MAINTAINER Su Wang <https://github.com/wangsu/docker-teamcity-agent-nodejs>
 
